@@ -30,7 +30,7 @@ To provide a model we ask you to do the following:
 _Note: This should be svg (png is possible) image with circle shape and size 128x128 pixels at least_
 - **Avatar image** - you can add your own logo (by default we use ours)  
 _Note: This should be svg (png is possible) image with circle shape and size 128x128 pixels at least_
-
+![](imgs/explanation.png)
 ## Evironment
 - Install venv  
 ```python3.7 -m pip install virtualenv```
